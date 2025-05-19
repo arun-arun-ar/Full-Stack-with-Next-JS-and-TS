@@ -1,4 +1,4 @@
-import {z} from "ZOD";
+import { z } from "zod";
 
 export const signInSchema = z.object({
     identifire:z.string(),
