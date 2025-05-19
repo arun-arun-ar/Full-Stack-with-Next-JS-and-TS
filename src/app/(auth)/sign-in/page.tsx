@@ -3,7 +3,7 @@ import React from 'react'
 
 const page = () => {
     return (
-        <div>page</div>
+        <div className='text-4xl text-blue-500'>page</div>
     )
 }
 
